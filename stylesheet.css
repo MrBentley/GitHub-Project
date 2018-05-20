@@ -1,0 +1,75 @@
+#header-options {
+	margin-top: 20px;
+	margin-right: 80px;
+	list-style-type: none;
+	text-align: center;
+	float: right;
+	font-family: "Arial Narrow", sans-serif;
+	font-size: 18px;
+	color: #3a3a3a;
+}
+
+#header-options a {
+	padding-right: 30px;
+}
+
+
+h1 {
+	font-family: "Didot", serif;
+	font-style: normal;
+	font-size: 60px;
+	font-weight: 100;
+	color: #3a3a3a;
+}
+
+.heading {
+	padding: 50px 0px 240px 120px;
+}
+
+.email {
+	float: left;
+    text-align: left;
+    padding-left: 80px;
+    font-family: "Didot", serif;
+    font-style: normal;
+    color: #3a3a3a;
+}
+
+.header {
+	display: fixed;
+}
+
+.dino {
+	    float: right;
+    display: flex;
+    z-index: -1;
+    position: absolute;
+    right: 10%;
+    top: 170px;
+    width: 600px;
+}
+
+
+.container {
+	margin: 30px;
+	background-color:rgb(22, 151, 166);
+	border-radius: 25px;
+	min-height: 500px;
+}
+
+p {
+    text-align: center;
+    padding-left: 80px;
+    font-family: "Didot", serif;
+    font-style: normal;
+    color: #3a3a3a;
+}
+
+a {
+	text-decoration: none;
+	color: #3a3a3a;
+}
+
+a:hover {
+	color: #4caf50;
+}
